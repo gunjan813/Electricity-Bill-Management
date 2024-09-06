@@ -1,0 +1,7 @@
+ body {
+          
+             background: url("../images/ad.jpg") no-repeat center fixed; 
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
